@@ -1,6 +1,6 @@
 The project should be pretty easy to run as it is just a maven project.
 
-I have incluided the correct chromedriver for the version I was testing on (version 111). If your version is different then please update the chromedriver and feel free to include it anywhere on your machine but remember to update the test properties to state where it is.
+I have included the correct chromedriver for the version I was testing on (version 111). If your version is different then please update the chromedriver and feel free to include it anywhere on your machine but remember to update the test properties to state where it is.
 
 A PDF of the test cases is included in the root of the project. 
 
