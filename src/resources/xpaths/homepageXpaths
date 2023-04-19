@@ -1,0 +1,5 @@
+agreeToCookiesXpath=//button[contains(text(), \"I'm okay with cookies\")]
+irelandRegionFlagXpath=//img[@alt='Ireland Region']
+cookieConsentBoxXpath=//div[@id='headlessui-dialog-panel-:r4:']
+homeBannerXpath=//a[@class='block cursor-pointer']
+regionSelectBoxXpath=//div[@id='headlessui-dialog-panel-:ra:']

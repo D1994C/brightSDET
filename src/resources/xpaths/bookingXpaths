@@ -1,0 +1,7 @@
+bookingButtonXpath=//a[contains(text(),'Book a demo')]
+bookingFirstNameXpath=//input[@name='firstname']
+bookingSurnameXpath=//input[@name='lastname']
+bookingPhoneXpath=//input[@name='phone']
+bookingEmailXpath=//input[@name='email']
+bookingCompanyXpath=//input[@name='company']
+bookingNewsletterXpath=//span[contains(text(), 'Sign up to our newsletter')]

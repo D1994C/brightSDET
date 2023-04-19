@@ -1,0 +1,7 @@
+loginDropdownXpath=//button[@id='headlessui-popover-button-:R36im:']
+brightIDXpath=//a[contains(text(), 'Bright ID')]
+loginNameXpath=//input[@id='signInName']
+loginPassXpath=//input[@id='password']
+loginSubmitXpath=//button[@id='next']
+accountOverviewXpath=//i[@class='fad fa-address-card']
+incorrectPasswordBoxXpath=//p[contains(text(), 'Your password is incorrect')]
